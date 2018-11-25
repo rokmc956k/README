@@ -2,7 +2,7 @@
  - [Q-Learning](#Q-Learning)
  - [Value-based](#Value-based)  
  - [PG](#PG)
- - [Inverse Reinforcement Learning](#Inverse Reinforcement Learning)
+ - [Inverse Reinforcement Learning](#Inverse_Reinforcement_Learning)
  - [urdf-sdf converter](#urdf-sdf-converter)
  - [Additional Readings](#additional-readings)   
 
