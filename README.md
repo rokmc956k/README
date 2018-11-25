@@ -37,7 +37,7 @@
   - PPOSIL (SIL with PPO)
 
 
-## Inverse Reinforcement Learning
+## Inverse_Reinforcement_Learning
  
   - IRL
   - Imatation Learning
